@@ -1,0 +1,22 @@
+[
+  { "id": "darth-maul", "name": "Darth Maul", "label": "ダース・モール" },
+  { "id": "ahsoka", "name": "Ahsoka Tano", "label": "アソーカ" },
+  { "id": "obi-wan", "name": "Obi-Wan Kenobi", "label": "オビ＝ワン" },
+  { "id": "bo-katan", "name": "Bo-Katan Kryze", "label": "ボ＝カターン" },
+  { "id": "din-djarin", "name": "Din Djarin", "label": "ディン・ジャリン" },
+  { "id": "grogu", "name": "Grogu", "label": "グローグー" },
+  { "id": "thrawn", "name": "Grand Admiral Thrawn", "label": "スローン" },
+  { "id": "ventress", "name": "Asajj Ventress", "label": "ヴェントレス" },
+  { "id": "cad-bane", "name": "Cad Bane", "label": "キャド・ベイン" },
+  { "id": "rotta", "name": "Rotta the Hutt", "label": "ロッタ" },
+  { "id": "jabba", "name": "Jabba the Hutt", "label": "ジャバ・ザ・ハット" },
+  { "id": "embo", "name": "Embo", "label": "エンボ" },
+  { "id": "zeb", "name": "Garazeb Orrelios", "label": "ゼブ" },
+  { "id": "agent-kallus", "name": "Agent Kallus", "label": "エージェント・カラス" },
+  { "id": "carson-teva", "name": "Carson Teva", "label": "カーソン・テヴァ" },
+  { "id": "hondo", "name": "Hondo Ohnaka", "label": "ホンドー・オナカー" },
+  { "id": "rex", "name": "Rex", "label": "レックス" },
+  { "id": "ezra", "name": "Ezra Bridger", "label": "エズラ・ブリッジャー" },
+  { "id": "kanan", "name": "Kanan Jarrus", "label": "ケイナン・ジャラス" },
+  { "id": "qira", "name": "Qi'ra", "label": "キーラ" }
+]

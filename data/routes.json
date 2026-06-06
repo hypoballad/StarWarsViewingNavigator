@@ -1,0 +1,72 @@
+[
+  {
+    "id": "maul",
+    "category": "character",
+    "name": "ダース・モールルート",
+    "description": "映画での登場からクローン戦争、マンダロア、最終決着までモールの因縁を追う。",
+    "difficulties": {
+      "shortest": ["tp-movie", "cw-s4-e21", "cw-s5-e1", "cw-s5-e16", "cw-s7-e10", "rebels-s3-e20"],
+      "complete": ["tp-movie", "cw-s3-e12", "cw-s3-e13", "cw-s3-e14", "cw-s4-e21", "cw-s4-e22", "cw-s5-e1", "cw-s5-e14", "cw-s5-e15", "cw-s5-e16", "cw-s7-e8", "cw-s7-e9", "cw-s7-e10", "cw-s7-e11", "cw-s7-e12", "solo-movie", "rebels-s2-e21", "rebels-s3-e3", "rebels-s3-e11", "rebels-s3-e20"]
+    }
+  },
+  {
+    "id": "mandalore",
+    "category": "theme",
+    "name": "マンダロア史ルート",
+    "description": "マンダロリアン文化、ダークセーバー、奪還までの流れを押さえる。",
+    "difficulties": {
+      "shortest": ["cw-s5-e16", "mando-s1-e1", "mando-s2-e8", "mando-s3-e8"],
+      "complete": ["cw-s5-e14", "cw-s5-e15", "cw-s5-e16", "rebels-s3-e15", "rebels-s3-e16", "mando-s1-e1", "mando-s1-e3", "mando-s2-e8", "bobf-s1-e5", "mando-s3-e2", "mando-s3-e7", "mando-s3-e8"]
+    }
+  },
+  {
+    "id": "nightsisters",
+    "category": "theme",
+    "name": "ナイトシスタールート",
+    "description": "ダソミア、ヴェントレス、モール、スローン時代への接続を追う。",
+    "difficulties": {
+      "shortest": ["cw-s3-e12", "cw-s3-e13", "ahsoka-s1-e6"],
+      "complete": ["cw-s3-e12", "cw-s3-e13", "cw-s4-e21", "cw-s4-e22", "rebels-s2-e21", "ahsoka-s1-e6"]
+    }
+  },
+  {
+    "id": "mando-grogu-movie",
+    "category": "release",
+    "name": "マンダロリアン・アンド・グローグー準備ルート",
+    "description": "ディン・ジャリンとグローグーの関係、新共和国時代、マンダロア奪還、ロッタ、エンボ、ゼブの過去文脈を映画前に整理する。",
+    "difficulties": {
+      "shortest": ["tcw-movie", "cw-s2-e17", "mando-s1-e1", "mando-s2-e5", "mando-s2-e8", "mando-s3-e5", "mando-s3-e8"],
+      "complete": ["tcw-movie", "cw-s3-e4", "cw-s2-e17", "cw-s4-e15", "cw-s5-e14", "cw-s5-e16", "rebels-s1-e1", "rebels-s2-e17", "rebels-s3-e15", "rebels-s3-e16", "mando-s1-e1", "mando-s1-e3", "mando-s2-e5", "mando-s2-e8", "bobf-s1-e5", "bobf-s1-e6", "mando-s3-e2", "mando-s3-e5", "mando-s3-e7", "mando-s3-e8"]
+    }
+  },
+  {
+    "id": "ahsoka-s2",
+    "category": "release",
+    "name": "アソーカ シーズン2準備ルート",
+    "description": "アソーカの内面、スローン、エズラ、ナイトシスター周辺を次シーズン向けに押さえる。",
+    "difficulties": {
+      "shortest": ["rebels-s3-e1", "rebels-s4-e15", "ahsoka-s1-e5", "ahsoka-s1-e6"],
+      "complete": ["cw-s3-e12", "cw-s3-e13", "rebels-s2-e21", "rebels-s3-e1", "rebels-s3-e17", "rebels-s3-e21", "rebels-s4-e15", "mando-s2-e5", "bobf-s1-e6", "ahsoka-s1-e5", "ahsoka-s1-e6"]
+    }
+  },
+  {
+    "id": "thrawn",
+    "category": "character",
+    "name": "スローンルート",
+    "description": "スローンの登場、知略、反乱者たちとの決着、アソーカ本編への接続を追う。",
+    "difficulties": {
+      "shortest": ["rebels-s3-e1", "rebels-s4-e15", "ahsoka-s1-e6"],
+      "complete": ["rebels-s3-e1", "rebels-s3-e17", "rebels-s3-e21", "rebels-s4-e15", "ahsoka-s1-e6"]
+    }
+  },
+  {
+    "id": "grogu",
+    "category": "character",
+    "name": "グローグールート",
+    "description": "発見、保護、ジェダイとの接点、ディンとの家族関係を追う。",
+    "difficulties": {
+      "shortest": ["mando-s1-e1", "mando-s2-e5", "mando-s2-e8", "mando-s3-e8"],
+      "complete": ["mando-s1-e1", "mando-s1-e3", "mando-s2-e5", "mando-s2-e8", "bobf-s1-e5", "bobf-s1-e6", "mando-s3-e2", "mando-s3-e7", "mando-s3-e8"]
+    }
+  }
+]

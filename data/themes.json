@@ -1,0 +1,16 @@
+[
+  { "id": "nightsisters", "name": "Nightsisters", "label": "ナイトシスター" },
+  { "id": "mandalore", "name": "Mandalore", "label": "マンダロア" },
+  { "id": "darksaber", "name": "Darksaber", "label": "ダークセーバー" },
+  { "id": "new-republic", "name": "New Republic", "label": "新共和国" },
+  { "id": "beskar", "name": "Beskar", "label": "ベスカー" },
+  { "id": "sith", "name": "Sith", "label": "シス" },
+  { "id": "jedi", "name": "Jedi", "label": "ジェダイ" },
+  { "id": "clone-wars", "name": "Clone Wars", "label": "クローン戦争" },
+  { "id": "empire", "name": "Empire", "label": "帝国" },
+  { "id": "rebellion", "name": "Rebellion", "label": "反乱軍" },
+  { "id": "hutt-clan", "name": "Hutt Clan", "label": "ハット・クラン" },
+  { "id": "bounty-hunters", "name": "Bounty Hunters", "label": "賞金稼ぎ" },
+  { "id": "order-66", "name": "Order 66", "label": "オーダー66" },
+  { "id": "crime-syndicates", "name": "Crime Syndicates", "label": "犯罪組織" }
+]

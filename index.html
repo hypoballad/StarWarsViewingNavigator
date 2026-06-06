@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Star Wars Viewing Navigator</title>
+  <meta name="description" content="キャラクター、テーマ、新作映画からスター・ウォーズの視聴ルートを探せる静的ナビゲーションサイト">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div>
+        <p class="kicker">Purpose-first viewing guide</p>
+        <h1>Star Wars Viewing Navigator</h1>
+      </div>
+    </div>
+    <div class="overall-progress" aria-live="polite">
+      <span id="overallWatched">0</span>/<span id="overallTotal">0</span>
+      <small>視聴済み</small>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-copy">
+        <p class="kicker">公開順ではなく、興味から入る。</p>
+        <h2 id="heroTitle">見たい人物、知りたいテーマ、備えたい新作から最短ルートを選ぶ。</h2>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="orbit orbit-one"></div>
+        <div class="orbit orbit-two"></div>
+        <div class="ship"></div>
+      </div>
+    </section>
+
+    <section class="finder" aria-label="ルート検索">
+      <div class="finder-toolbar">
+        <label class="search-field">
+          <span>検索</span>
+          <input id="searchInput" type="search" placeholder="モール、ナイトシスター、スローン..." autocomplete="off">
+        </label>
+        <button class="ghost-button" id="clearWatchedButton" type="button">視聴記録をリセット</button>
+      </div>
+
+      <div class="category-tabs" role="tablist" aria-label="ルート種別">
+        <button class="tab-button active" type="button" data-category="all">すべて</button>
+        <button class="tab-button" type="button" data-category="character">キャラクター</button>
+        <button class="tab-button" type="button" data-category="theme">テーマ</button>
+        <button class="tab-button" type="button" data-category="release">新作映画</button>
+      </div>
+
+      <div class="home-cards" aria-label="探索入口">
+        <button class="home-card" type="button" data-category-jump="character">
+          <strong>キャラクターから探す</strong>
+          <span>人物の軌跡を追う</span>
+        </button>
+        <button class="home-card" type="button" data-category-jump="theme">
+          <strong>テーマから探す</strong>
+          <span>歴史や勢力を掘る</span>
+        </button>
+        <button class="home-card" type="button" data-category-jump="release">
+          <strong>新作映画から探す</strong>
+          <span>公開前の準備ルート</span>
+        </button>
+      </div>
+    </section>
+
+    <section class="content-grid">
+      <aside class="route-panel" aria-label="ルート一覧">
+        <div class="panel-heading">
+          <h2>ルート</h2>
+          <span id="routeCount">0</span>
+        </div>
+        <div id="routeList" class="route-list"></div>
+      </aside>
+
+      <section class="detail-panel" aria-live="polite">
+        <div id="routeDetail" class="route-detail empty-state">
+          <p class="kicker">Select a route</p>
+          <h2>興味のあるルートを選んでください。</h2>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <template id="routeButtonTemplate">
+    <button class="route-button" type="button">
+      <span class="route-type"></span>
+      <strong></strong>
+      <span class="route-meta"></span>
+      <span class="progress-bar"><span></span></span>
+    </button>
+  </template>
+
+  <template id="episodeTemplate">
+    <article class="episode-card">
+      <label class="watch-toggle">
+        <input type="checkbox">
+        <span>視聴済み</span>
+      </label>
+      <div class="episode-body">
+        <div class="episode-title-row">
+          <span class="episode-code"></span>
+          <h3></h3>
+        </div>
+        <p></p>
+        <div class="episode-tags"></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>
