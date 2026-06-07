@@ -42,6 +42,7 @@
         "msl-s1-e10",
         "solo-movie",
         "rebels-s2-e21",
+        "rebels-s2-e22",
         "rebels-s3-e3",
         "rebels-s3-e11",
         "rebels-s3-e20"
@@ -75,8 +76,11 @@
         "msl-s1-e10",
         "solo-movie",
         "rebels-s2-e21",
+        "rebels-s2-e22",
         "rebels-s3-e3",
         "rebels-s3-e11",
+        "rebels-s3-e15",
+        "rebels-s3-e16",
         "rebels-s3-e20"
       ]
     }
@@ -112,6 +116,8 @@
         "cw-s7-e12",
         "rebels-s3-e15",
         "rebels-s3-e16",
+        "rebels-s4-e1",
+        "rebels-s4-e2",
         "mando-s1-e1",
         "mando-s1-e3",
         "mando-s2-e8",
@@ -136,6 +142,8 @@
         "cw-s7-e12",
         "rebels-s3-e15",
         "rebels-s3-e16",
+        "rebels-s4-e1",
+        "rebels-s4-e2",
         "mando-s1-e1",
         "mando-s1-e3",
         "mando-s2-e8",

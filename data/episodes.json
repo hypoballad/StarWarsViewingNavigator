@@ -744,6 +744,18 @@
     "themes": ["Sith", "Jedi"]
   },
   {
+    "id": "rebels-s2-e22",
+    "series": "Rebels",
+    "season": 2,
+    "episode": 22,
+    "title": "Twilight of the Apprentice",
+    "format": "anime",
+    "importance": 5,
+    "description": "Malachorでの対決が決着し、モール、アソーカ、ベイダー、エズラとケイナンの関係が大きく変わる後編。",
+    "characters": ["Darth Maul", "Ahsoka Tano", "Darth Vader", "Ezra Bridger", "Kanan Jarrus"],
+    "themes": ["Sith", "Jedi"]
+  },
+  {
     "id": "rebels-s3-e3",
     "series": "Rebels",
     "season": 3,
@@ -823,7 +835,7 @@
     "title": "Trials of the Darksaber",
     "format": "anime",
     "importance": 4,
-    "description": "ダークセーバーとマンダロリアンの継承意識を理解する回。",
+    "description": "サビーヌがダークセーバーの扱いと重みを学ぶ回。モールは名前のみの言及だが、彼が残したダークセーバーが物語を動かしている。",
     "characters": ["Sabine Wren", "Kanan Jarrus"],
     "themes": ["Mandalore", "Darksaber"]
   },
@@ -835,9 +847,33 @@
     "title": "Legacy of Mandalore",
     "format": "anime",
     "importance": 4,
-    "description": "サビーヌとマンダロアの家族・政治の関係を補強する。",
+    "description": "サビーヌがダークセーバーを通じてマンダロアの家族・政治と向き合う回。モールが残した武器の影響が続いている。",
     "characters": ["Sabine Wren", "Bo-Katan Kryze"],
     "themes": ["Mandalore", "Darksaber"]
+  },
+  {
+    "id": "rebels-s4-e1",
+    "series": "Rebels",
+    "season": 4,
+    "episode": 1,
+    "title": "Heroes of Mandalore",
+    "format": "anime",
+    "importance": 5,
+    "description": "サビーヌたちが帝国に捕らわれた父を救出し、帝国支配下のマンダロアと対マンダロリアン兵器の脅威が描かれる前編。",
+    "characters": ["Sabine Wren", "Bo-Katan Kryze", "Ezra Bridger", "Kanan Jarrus"],
+    "themes": ["Mandalore", "Darksaber", "Empire", "Beskar"]
+  },
+  {
+    "id": "rebels-s4-e2",
+    "series": "Rebels",
+    "season": 4,
+    "episode": 2,
+    "title": "Heroes of Mandalore",
+    "format": "anime",
+    "importance": 5,
+    "description": "サビーヌが帝国兵器The Duchessの責任と向き合い、ボ＝カターンがダークセーバーを受け取りマンダロアを率いる後編。",
+    "characters": ["Sabine Wren", "Bo-Katan Kryze", "Ezra Bridger", "Kanan Jarrus", "Grand Admiral Thrawn"],
+    "themes": ["Mandalore", "Darksaber", "Empire", "Beskar"]
   },
   {
     "id": "rebels-s4-e15",
