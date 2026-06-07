@@ -33,7 +33,8 @@ const categoryLabels = {
 
 const difficultyLabels = {
   shortest: "最短ルート",
-  complete: "しっかりルート"
+  complete: "しっかりルート",
+  cameo: "カメオ込み"
 };
 
 const dom = {

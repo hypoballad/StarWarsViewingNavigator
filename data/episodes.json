@@ -12,6 +12,18 @@
     "themes": ["Sith", "Jedi"]
   },
   {
+    "id": "rots-movie",
+    "series": "Episode III",
+    "season": null,
+    "episode": null,
+    "title": "Revenge of the Sith",
+    "format": "movie",
+    "importance": 5,
+    "description": "オーダー66でプロ・クーンがクローン兵に撃墜される最期を描く作品。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Obi-Wan Kenobi"],
+    "themes": ["Order 66", "Jedi Council"]
+  },
+  {
     "id": "tcw-movie",
     "series": "The Clone Wars",
     "season": null,
@@ -24,6 +36,102 @@
     "themes": ["Hutt Clan", "Clone Wars"]
   },
   {
+    "id": "cw-s1-e2",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 2,
+    "title": "Rising Malevolence",
+    "format": "anime",
+    "importance": 5,
+    "description": "プロ・クーンとウルフパックの絆、「クローンは消耗品ではない」が分かる最重要回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker", "Wolffe"],
+    "themes": ["Plo Koon Important", "Wolfpack", "Clone Wars"]
+  },
+  {
+    "id": "cw-s1-e3",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 3,
+    "title": "Shadow of Malevolence",
+    "format": "anime",
+    "importance": 5,
+    "description": "Malevolence編の続き。プロ・クーンとアナキン、アソーカの連携を押さえる回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Clone Wars"]
+  },
+  {
+    "id": "cw-s1-e4",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 4,
+    "title": "Destroy Malevolence",
+    "format": "anime",
+    "importance": 4,
+    "description": "Malevolence編の締め。プロ・クーン周辺の序盤文脈を完結させる回。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Ahsoka Tano", "Obi-Wan Kenobi"],
+    "themes": ["Plo Koon Important", "Clone Wars"]
+  },
+  {
+    "id": "cw-s1-e11",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 11,
+    "title": "Dooku Captured",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Obi-Wan Kenobi", "Count Dooku"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
+    "id": "cw-s1-e12",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 12,
+    "title": "The Gungan General",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Obi-Wan Kenobi"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
+    "id": "cw-s2-e1",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 1,
+    "title": "Holocron Heist",
+    "format": "anime",
+    "importance": 5,
+    "description": "アソーカとの関係、ジェダイ側の動きが見えるプロ・クーン重要回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker", "Cad Bane"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s2-e3",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 3,
+    "title": "Children of the Force",
+    "format": "anime",
+    "importance": 3,
+    "description": "プロ・クーンがホログラムで関わる、ジェダイ側の対応を補足する回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
+    "themes": ["Plo Koon Cameo", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s2-e9",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 9,
+    "title": "Grievous Intrigue",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Obi-Wan Kenobi", "General Grievous"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
     "id": "cw-s2-e17",
     "series": "The Clone Wars",
     "season": 2,
@@ -34,6 +142,30 @@
     "description": "エンボを含む賞金稼ぎたちの立ち位置と腕前を押さえる回。",
     "characters": ["Embo", "Anakin Skywalker", "Ahsoka Tano", "Obi-Wan Kenobi"],
     "themes": ["Bounty Hunters", "Clone Wars"]
+  },
+  {
+    "id": "cw-s2-e21",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 21,
+    "title": "R2 Come Home",
+    "format": "anime",
+    "importance": 3,
+    "description": "プロ・クーンが共和国側の捜索に関わるボバ・フェット編の補足回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker", "Boba Fett"],
+    "themes": ["Plo Koon Cameo", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s2-e22",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 22,
+    "title": "Lethal Trackdown",
+    "format": "anime",
+    "importance": 4,
+    "description": "ボバ・フェット編の締め。プロ・クーンの出番がある補足重要回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Boba Fett", "Mace Windu"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
   },
   {
     "id": "cw-s2-e12",
@@ -128,8 +260,8 @@
     "format": "anime",
     "importance": 4,
     "description": "エンボを含む賞金稼ぎたちと共和国側の潜入作戦が交差する回。",
-    "characters": ["Embo", "Obi-Wan Kenobi", "Cad Bane", "Anakin Skywalker", "Ahsoka Tano"],
-    "themes": ["Bounty Hunters", "Clone Wars"]
+    "characters": ["Embo", "Obi-Wan Kenobi", "Cad Bane", "Anakin Skywalker", "Ahsoka Tano", "Plo Koon"],
+    "themes": ["Bounty Hunters", "Clone Wars", "Plo Koon Cameo"]
   },
   {
     "id": "cw-s4-e14",
@@ -156,6 +288,18 @@
     "themes": ["Nightsisters", "Sith"]
   },
   {
+    "id": "cw-s3-e7",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 7,
+    "title": "Assassin",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Padme Amidala"],
+    "themes": ["Plo Koon Cameo", "Ahsoka"]
+  },
+  {
     "id": "cw-s3-e14",
     "series": "The Clone Wars",
     "season": 3,
@@ -164,8 +308,80 @@
     "format": "anime",
     "importance": 4,
     "description": "サヴァージの探索がモール生存の手がかりへつながる回。",
-    "characters": ["Savage Opress", "Asajj Ventress", "Darth Maul"],
-    "themes": ["Nightsisters", "Sith"]
+    "characters": ["Savage Opress", "Asajj Ventress", "Darth Maul", "Plo Koon"],
+    "themes": ["Nightsisters", "Sith", "Plo Koon Cameo"]
+  },
+  {
+    "id": "cw-s3-e15",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 15,
+    "title": "Overlords",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Ahsoka Tano", "Obi-Wan Kenobi"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
+    "id": "cw-s3-e18",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 18,
+    "title": "The Citadel",
+    "format": "anime",
+    "importance": 4,
+    "description": "シタデル編。プロ・クーンがジェダイ側の重要作戦に関わる。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Obi-Wan Kenobi", "Ahsoka Tano"],
+    "themes": ["Plo Koon Important", "Jedi Council", "Ahsoka"]
+  },
+  {
+    "id": "cw-s3-e19",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 19,
+    "title": "Counterattack",
+    "format": "anime",
+    "importance": 4,
+    "description": "シタデル編の続き。共和国救出作戦の流れを補強する回。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Obi-Wan Kenobi", "Ahsoka Tano"],
+    "themes": ["Plo Koon Important", "Jedi Council", "Ahsoka"]
+  },
+  {
+    "id": "cw-s3-e20",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 20,
+    "title": "Citadel Rescue",
+    "format": "anime",
+    "importance": 4,
+    "description": "シタデル編の締め。プロ・クーンが作戦の救出側として関わる。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Obi-Wan Kenobi", "Ahsoka Tano"],
+    "themes": ["Plo Koon Important", "Jedi Council", "Ahsoka"]
+  },
+  {
+    "id": "cw-s3-e21",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 21,
+    "title": "Padawan Lost",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Ahsoka Tano"],
+    "themes": ["Plo Koon Cameo", "Ahsoka"]
+  },
+  {
+    "id": "cw-s3-e22",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 22,
+    "title": "Wookiee Hunt",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Ahsoka Tano"],
+    "themes": ["Plo Koon Cameo", "Ahsoka"]
   },
   {
     "id": "cw-s4-e21",
@@ -574,6 +790,138 @@
     "description": "マンダロア奪還とディン、グローグーの次章への足場。",
     "characters": ["Din Djarin", "Grogu", "Bo-Katan Kryze"],
     "themes": ["Mandalore", "New Republic"]
+  },
+  {
+    "id": "cw-s4-e18",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 18,
+    "title": "Crisis on Naboo",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Obi-Wan Kenobi", "Anakin Skywalker", "Cad Bane"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
+    "id": "cw-s5-e2",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 2,
+    "title": "A War on Two Fronts",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Ahsoka Tano"],
+    "themes": ["Plo Koon Cameo", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s5-e17",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 17,
+    "title": "Sabotage",
+    "format": "anime",
+    "importance": 4,
+    "description": "アソーカ裁判編の入口。プロ・クーンは評議会側として関わる。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s5-e18",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 18,
+    "title": "The Jedi Who Knew Too Much",
+    "format": "anime",
+    "importance": 4,
+    "description": "アソーカが追い詰められる裁判編。評議会側の立場を押さえる回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s5-e19",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 19,
+    "title": "To Catch a Jedi",
+    "format": "anime",
+    "importance": 4,
+    "description": "アソーカ裁判編の逃亡パート。ジェダイ評議会側の判断へつながる。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s5-e20",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 20,
+    "title": "The Wrong Jedi",
+    "format": "anime",
+    "importance": 5,
+    "description": "アソーカ離脱に関わる評議会回。プロ・クーンの立場を理解する重要回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+  },
+  {
+    "id": "cw-s6-e1",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 1,
+    "title": "The Unknown",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Anakin Skywalker", "Rex"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
+    "id": "cw-s6-e2",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 2,
+    "title": "Conspiracy",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Shaak Ti", "Fives"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
+    "id": "cw-s6-e4",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 4,
+    "title": "Orders",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Shaak Ti", "Fives"],
+    "themes": ["Plo Koon Cameo", "Jedi Council", "Order 66"]
+  },
+  {
+    "id": "cw-s6-e10",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 10,
+    "title": "The Lost One",
+    "format": "anime",
+    "importance": 5,
+    "description": "サイフォ＝ディアス調査。評議会メンバーとしてのプロ・クーンが見える重要回。",
+    "characters": ["Plo Koon", "Yoda", "Mace Windu", "Obi-Wan Kenobi"],
+    "themes": ["Plo Koon Important", "Jedi Council", "Order 66"]
+  },
+  {
+    "id": "cw-s6-e11",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 11,
+    "title": "Voices",
+    "format": "anime",
+    "importance": 2,
+    "description": "プロ・クーンの出演確認用カメオ回。",
+    "characters": ["Plo Koon", "Yoda", "Mace Windu"],
+    "themes": ["Plo Koon Cameo", "Jedi Council"]
   },
   {
     "id": "ahsoka-s1-e5",

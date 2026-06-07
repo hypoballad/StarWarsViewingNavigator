@@ -23,5 +23,14 @@
   { "id": "pre-vizsla", "name": "Pre Vizsla", "label": "プリ・ヴィズラ" },
   { "id": "korkie", "name": "Korkie Kryze", "label": "コーキー・クライズ" },
   { "id": "almec", "name": "Almec", "label": "アルメック" },
-  { "id": "lux", "name": "Lux Bonteri", "label": "ラックス・ボンテリ" }
+  { "id": "lux", "name": "Lux Bonteri", "label": "ラックス・ボンテリ" },
+  { "id": "plo-koon", "name": "Plo Koon", "label": "プロ・クーン" },
+  { "id": "wolffe", "name": "Wolffe", "label": "ウルフ" },
+  { "id": "boba-fett", "name": "Boba Fett", "label": "ボバ・フェット" },
+  { "id": "mace-windu", "name": "Mace Windu", "label": "メイス・ウィンドゥ" },
+  { "id": "yoda", "name": "Yoda", "label": "ヨーダ" },
+  { "id": "shaak-ti", "name": "Shaak Ti", "label": "シャアク・ティ" },
+  { "id": "fives", "name": "Fives", "label": "ファイヴス" },
+  { "id": "count-dooku", "name": "Count Dooku", "label": "ドゥークー伯爵" },
+  { "id": "grievous", "name": "General Grievous", "label": "グリーヴァス将軍" }
 ]

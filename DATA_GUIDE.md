@@ -119,7 +119,7 @@ Star Wars Viewing Navigator のデータは `data/` 配下の JSON ファイル�
 `complete`
 : 関連回も含めて、しっかり背景を押さえるルートです。画面では「しっかりルート」と表示されます。
 
-現在、画面に表示される難易度は「最短ルート」と「しっかりルート」の2つだけです。`recommended` は使いません。
+現在、画面に表示される基本の難易度は「最短ルート」と「しっかりルート」です。出演確認用のルートでは `cameo` を使うと「カメオ込み」と表示されます。`recommended` は使いません。
 
 ## 4. 新しいルートを追加する
 
@@ -186,7 +186,8 @@ JSON のカンマ抜けやID間違いがあると画面が読み込めなくな�
 - `episodes.json` が正しい JSON として読める
 - `routes.json` が正しい JSON として読める
 - `routes.json` に書いたエピソードIDが `episodes.json` に存在する
-- ルートの `difficulties` は `shortest` と `complete` のみ
+- ルートの `difficulties` は基本的に `shortest` と `complete`
+- カメオまで追うルートでは `cameo` を追加してよい
 - ブラウザを再読み込みして表示される
 
 ## 7. よくあるミス

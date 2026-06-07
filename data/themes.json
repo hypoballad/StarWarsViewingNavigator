@@ -14,5 +14,10 @@
   { "id": "order-66", "name": "Order 66", "label": "オーダー66" },
   { "id": "crime-syndicates", "name": "Crime Syndicates", "label": "犯罪組織" },
   { "id": "death-watch", "name": "Death Watch", "label": "デス・ウォッチ" },
-  { "id": "new-mandalorians", "name": "New Mandalorians", "label": "ニュー・マンダロリアン" }
+  { "id": "new-mandalorians", "name": "New Mandalorians", "label": "ニュー・マンダロリアン" },
+  { "id": "plo-koon-important", "name": "Plo Koon Important", "label": "プロ・クーン重要" },
+  { "id": "plo-koon-cameo", "name": "Plo Koon Cameo", "label": "プロ・クーンカメオ" },
+  { "id": "wolfpack", "name": "Wolfpack", "label": "ウルフパック" },
+  { "id": "ahsoka", "name": "Ahsoka", "label": "アソーカ" },
+  { "id": "jedi-council", "name": "Jedi Council", "label": "評議会" }
 ]

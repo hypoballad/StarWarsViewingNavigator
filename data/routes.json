@@ -60,6 +60,17 @@
     }
   },
   {
+    "id": "plo-koon",
+    "category": "character",
+    "name": "プロ・クーン把握ルート",
+    "description": "プロ・クーンの人物像、クローン兵との関係、アソーカとの関係、評議会での立場、オーダー66での最期を把握する。",
+    "difficulties": {
+      "shortest": ["cw-s1-e2", "cw-s1-e3", "cw-s1-e4", "cw-s2-e1", "cw-s6-e10", "rots-movie"],
+      "complete": ["cw-s1-e2", "cw-s1-e3", "cw-s1-e4", "cw-s2-e1", "cw-s2-e22", "cw-s3-e18", "cw-s3-e19", "cw-s3-e20", "cw-s5-e17", "cw-s5-e18", "cw-s5-e19", "cw-s5-e20", "cw-s6-e10", "rots-movie"],
+      "cameo": ["cw-s1-e2", "cw-s1-e3", "cw-s1-e4", "cw-s2-e1", "cw-s6-e10", "rots-movie", "cw-s2-e22", "cw-s3-e18", "cw-s3-e19", "cw-s3-e20", "cw-s5-e17", "cw-s5-e18", "cw-s5-e19", "cw-s5-e20", "cw-s1-e11", "cw-s1-e12", "cw-s2-e9", "cw-s2-e21", "cw-s3-e7", "cw-s3-e14", "cw-s3-e15", "cw-s3-e21", "cw-s3-e22", "cw-s4-e15", "cw-s4-e18", "cw-s5-e2", "cw-s6-e1", "cw-s6-e2", "cw-s6-e4", "cw-s6-e11"]
+    }
+  },
+  {
     "id": "grogu",
     "category": "character",
     "name": "グローグールート",
