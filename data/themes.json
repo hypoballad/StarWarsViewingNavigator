@@ -26,5 +26,6 @@
   { "id": "trial-arc", "name": "Trial Arc", "label": "裁判編" },
   { "id": "jedi-criticism", "name": "Jedi Criticism", "label": "ジェダイ批判" },
   { "id": "jedi-disillusionment", "name": "Jedi Disillusionment", "label": "ジェダイ失望" },
-  { "id": "leadership", "name": "Leadership", "label": "指導者" }
+  { "id": "leadership", "name": "Leadership", "label": "指導者" },
+  { "id": "dathomir", "name": "Dathomir", "label": "ダソミア" }
 ]

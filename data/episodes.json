@@ -528,6 +528,18 @@
     "themes": ["Crime Syndicates", "Mandalore"]
   },
   {
+    "id": "comic-son-of-dathomir",
+    "series": "Darth Maul",
+    "season": null,
+    "episode": null,
+    "title": "Son of Dathomir",
+    "format": "comic",
+    "importance": 5,
+    "description": "The Clone Wars S5E16 と S7E8 の間をつなぐ補足コミック。モール、マザー・タルジン、シディアス、ドゥークー、グリーヴァスの対立を描く。",
+    "characters": ["Darth Maul", "Mother Talzin", "Darth Sidious", "Count Dooku", "General Grievous"],
+    "themes": ["Dathomir", "Sith", "Crime Syndicates"]
+  },
+  {
     "id": "cw-s7-e9",
     "series": "The Clone Wars",
     "season": 7,

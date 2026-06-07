@@ -36,5 +36,7 @@
   { "id": "barriss", "name": "Barriss Offee", "label": "バリス・オフィー" },
   { "id": "luminara", "name": "Luminara Unduli", "label": "ルミナーラ・アンドゥリ" },
   { "id": "saw", "name": "Saw Gerrera", "label": "ソウ・ゲレラ" },
-  { "id": "padme", "name": "Padme Amidala", "label": "パドメ・アミダラ" }
+  { "id": "padme", "name": "Padme Amidala", "label": "パドメ・アミダラ" },
+  { "id": "mother-talzin", "name": "Mother Talzin", "label": "マザー・タルジン" },
+  { "id": "sidious", "name": "Darth Sidious", "label": "ダース・シディアス" }
 ]

@@ -323,6 +323,7 @@ function getEpisodeById(id) {
 
 function episodeCode(episode) {
   if (episode.format === "movie") return `${episode.series} 映画`;
+  if (episode.format === "comic") return `${episode.series} コミック`;
   return `${episode.series} S${episode.season}E${episode.episode}`;
 }
 
