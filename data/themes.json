@@ -12,5 +12,7 @@
   { "id": "hutt-clan", "name": "Hutt Clan", "label": "ハット・クラン" },
   { "id": "bounty-hunters", "name": "Bounty Hunters", "label": "賞金稼ぎ" },
   { "id": "order-66", "name": "Order 66", "label": "オーダー66" },
-  { "id": "crime-syndicates", "name": "Crime Syndicates", "label": "犯罪組織" }
+  { "id": "crime-syndicates", "name": "Crime Syndicates", "label": "犯罪組織" },
+  { "id": "death-watch", "name": "Death Watch", "label": "デス・ウォッチ" },
+  { "id": "new-mandalorians", "name": "New Mandalorians", "label": "ニュー・マンダロリアン" }
 ]

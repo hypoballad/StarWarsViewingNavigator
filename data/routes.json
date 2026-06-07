@@ -13,10 +13,10 @@
     "id": "mandalore",
     "category": "theme",
     "name": "マンダロア史ルート",
-    "description": "マンダロリアン文化、ダークセーバー、奪還までの流れを押さえる。",
+    "description": "サティーン時代、デス・ウォッチ、モール支配、マンダロア包囲戦、奪還までの流れを押さえる。",
     "difficulties": {
-      "shortest": ["cw-s5-e16", "mando-s1-e1", "mando-s2-e8", "mando-s3-e8"],
-      "complete": ["cw-s5-e14", "cw-s5-e15", "cw-s5-e16", "rebels-s3-e15", "rebels-s3-e16", "mando-s1-e1", "mando-s1-e3", "mando-s2-e8", "bobf-s1-e5", "mando-s3-e2", "mando-s3-e7", "mando-s3-e8"]
+      "shortest": ["cw-s2-e12", "cw-s2-e13", "cw-s5-e16", "cw-s7-e9", "mando-s1-e1", "mando-s2-e8", "mando-s3-e8"],
+      "complete": ["cw-s2-e12", "cw-s2-e13", "cw-s2-e14", "cw-s3-e5", "cw-s3-e6", "cw-s4-e14", "cw-s5-e14", "cw-s5-e15", "cw-s5-e16", "cw-s7-e9", "cw-s7-e10", "cw-s7-e11", "cw-s7-e12", "rebels-s3-e15", "rebels-s3-e16", "mando-s1-e1", "mando-s1-e3", "mando-s2-e8", "bobf-s1-e5", "mando-s3-e2", "mando-s3-e7", "mando-s3-e8"]
     }
   },
   {

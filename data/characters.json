@@ -18,5 +18,10 @@
   { "id": "rex", "name": "Rex", "label": "レックス" },
   { "id": "ezra", "name": "Ezra Bridger", "label": "エズラ・ブリッジャー" },
   { "id": "kanan", "name": "Kanan Jarrus", "label": "ケイナン・ジャラス" },
-  { "id": "qira", "name": "Qi'ra", "label": "キーラ" }
+  { "id": "qira", "name": "Qi'ra", "label": "キーラ" },
+  { "id": "satine", "name": "Satine Kryze", "label": "サティーン・クライズ" },
+  { "id": "pre-vizsla", "name": "Pre Vizsla", "label": "プリ・ヴィズラ" },
+  { "id": "korkie", "name": "Korkie Kryze", "label": "コーキー・クライズ" },
+  { "id": "almec", "name": "Almec", "label": "アルメック" },
+  { "id": "lux", "name": "Lux Bonteri", "label": "ラックス・ボンテリ" }
 ]

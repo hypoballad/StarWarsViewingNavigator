@@ -36,6 +36,42 @@
     "themes": ["Bounty Hunters", "Clone Wars"]
   },
   {
+    "id": "cw-s2-e12",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 12,
+    "title": "The Mandalore Plot",
+    "format": "anime",
+    "importance": 5,
+    "description": "サティーン、ニュー・マンダロリアン、デス・ウォッチの対立を理解する入口。",
+    "characters": ["Obi-Wan Kenobi", "Satine Kryze", "Pre Vizsla"],
+    "themes": ["Mandalore", "Death Watch"]
+  },
+  {
+    "id": "cw-s2-e13",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 13,
+    "title": "Voyage of Temptation",
+    "format": "anime",
+    "importance": 5,
+    "description": "オビ＝ワンとサティーンの過去、マンダロアの中立外交を押さえる回。",
+    "characters": ["Obi-Wan Kenobi", "Satine Kryze", "Anakin Skywalker"],
+    "themes": ["Mandalore", "Jedi"]
+  },
+  {
+    "id": "cw-s2-e14",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 14,
+    "title": "Duchess of Mandalore",
+    "format": "anime",
+    "importance": 5,
+    "description": "サティーンが共和国介入とデス・ウォッチの陰謀に向き合うマンダロア政治回。",
+    "characters": ["Satine Kryze", "Obi-Wan Kenobi", "Pre Vizsla"],
+    "themes": ["Mandalore", "Death Watch"]
+  },
+  {
     "id": "cw-s3-e4",
     "series": "The Clone Wars",
     "season": 3,
@@ -46,6 +82,30 @@
     "description": "ロッタが再登場し、ハット周辺の政治的なつながりを補足できる回。",
     "characters": ["Rotta the Hutt", "Ahsoka Tano", "Jabba the Hutt"],
     "themes": ["Hutt Clan", "Clone Wars"]
+  },
+  {
+    "id": "cw-s3-e5",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 5,
+    "title": "Corruption",
+    "format": "anime",
+    "importance": 4,
+    "description": "サティーン政権下のマンダロアで起きる腐敗と社会問題を描く回。",
+    "characters": ["Satine Kryze", "Padme Amidala"],
+    "themes": ["Mandalore", "New Mandalorians"]
+  },
+  {
+    "id": "cw-s3-e6",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 6,
+    "title": "The Academy",
+    "format": "anime",
+    "importance": 4,
+    "description": "アソーカがマンダロアの士官学校で、政権内部の腐敗に関わる事件を追う回。",
+    "characters": ["Ahsoka Tano", "Satine Kryze", "Korkie Kryze", "Almec"],
+    "themes": ["Mandalore", "New Mandalorians"]
   },
   {
     "id": "cw-s3-e12",
@@ -70,6 +130,18 @@
     "description": "エンボを含む賞金稼ぎたちと共和国側の潜入作戦が交差する回。",
     "characters": ["Embo", "Obi-Wan Kenobi", "Cad Bane", "Anakin Skywalker", "Ahsoka Tano"],
     "themes": ["Bounty Hunters", "Clone Wars"]
+  },
+  {
+    "id": "cw-s4-e14",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 14,
+    "title": "A Friend in Need",
+    "format": "anime",
+    "importance": 4,
+    "description": "デス・ウォッチとボ＝カターン、ナイト・オウルズの初期像を押さえる回。",
+    "characters": ["Ahsoka Tano", "Bo-Katan Kryze", "Pre Vizsla", "Lux Bonteri"],
+    "themes": ["Mandalore", "Death Watch"]
   },
   {
     "id": "cw-s3-e13",
