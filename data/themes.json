@@ -19,5 +19,12 @@
   { "id": "plo-koon-cameo", "name": "Plo Koon Cameo", "label": "プロ・クーンカメオ" },
   { "id": "wolfpack", "name": "Wolfpack", "label": "ウルフパック" },
   { "id": "ahsoka", "name": "Ahsoka", "label": "アソーカ" },
-  { "id": "jedi-council", "name": "Jedi Council", "label": "評議会" }
+  { "id": "jedi-council", "name": "Jedi Council", "label": "評議会" },
+  { "id": "barriss", "name": "Barriss", "label": "バリス" },
+  { "id": "geonosis", "name": "Geonosis", "label": "ジオノーシス" },
+  { "id": "force", "name": "Force", "label": "フォース" },
+  { "id": "trial-arc", "name": "Trial Arc", "label": "裁判編" },
+  { "id": "jedi-criticism", "name": "Jedi Criticism", "label": "ジェダイ批判" },
+  { "id": "jedi-disillusionment", "name": "Jedi Disillusionment", "label": "ジェダイ失望" },
+  { "id": "leadership", "name": "Leadership", "label": "指導者" }
 ]

@@ -32,5 +32,9 @@
   { "id": "shaak-ti", "name": "Shaak Ti", "label": "シャアク・ティ" },
   { "id": "fives", "name": "Fives", "label": "ファイヴス" },
   { "id": "count-dooku", "name": "Count Dooku", "label": "ドゥークー伯爵" },
-  { "id": "grievous", "name": "General Grievous", "label": "グリーヴァス将軍" }
+  { "id": "grievous", "name": "General Grievous", "label": "グリーヴァス将軍" },
+  { "id": "barriss", "name": "Barriss Offee", "label": "バリス・オフィー" },
+  { "id": "luminara", "name": "Luminara Unduli", "label": "ルミナーラ・アンドゥリ" },
+  { "id": "saw", "name": "Saw Gerrera", "label": "ソウ・ゲレラ" },
+  { "id": "padme", "name": "Padme Amidala", "label": "パドメ・アミダラ" }
 ]

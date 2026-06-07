@@ -108,6 +108,42 @@
     "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
   },
   {
+    "id": "cw-s2-e6",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 6,
+    "title": "Weapons Factory",
+    "format": "anime",
+    "importance": 5,
+    "description": "アソーカとバリスの友情、価値観の違いの芽を押さえるジオノーシス回。",
+    "characters": ["Ahsoka Tano", "Barriss Offee", "Anakin Skywalker", "Luminara Unduli"],
+    "themes": ["Ahsoka", "Barriss", "Geonosis", "Jedi Disillusionment"]
+  },
+  {
+    "id": "cw-s2-e7",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 7,
+    "title": "Legacy of Terror",
+    "format": "anime",
+    "importance": 4,
+    "description": "危機的状況での協力を通じて、アソーカとバリスの信頼関係が深まる回。",
+    "characters": ["Ahsoka Tano", "Barriss Offee", "Luminara Unduli"],
+    "themes": ["Ahsoka", "Barriss", "Geonosis"]
+  },
+  {
+    "id": "cw-s2-e8",
+    "series": "The Clone Wars",
+    "season": 2,
+    "episode": 8,
+    "title": "Brain Invaders",
+    "format": "anime",
+    "importance": 5,
+    "description": "バリスとアソーカの関係を理解する最重要回。後の裏切りの衝撃を強める。",
+    "characters": ["Ahsoka Tano", "Barriss Offee"],
+    "themes": ["Ahsoka", "Barriss", "Force", "Jedi Disillusionment"]
+  },
+  {
     "id": "cw-s2-e3",
     "series": "The Clone Wars",
     "season": 2,
@@ -318,10 +354,34 @@
     "episode": 15,
     "title": "Overlords",
     "format": "anime",
-    "importance": 2,
-    "description": "プロ・クーンの出演確認用カメオ回。",
+    "importance": 4,
+    "description": "モーティス編の入口。フォースの神話的側面とアナキン、アソーカの関係を補強する。",
     "characters": ["Plo Koon", "Anakin Skywalker", "Ahsoka Tano", "Obi-Wan Kenobi"],
-    "themes": ["Plo Koon Cameo", "Jedi Council"]
+    "themes": ["Plo Koon Cameo", "Jedi Council", "Force", "Ahsoka"]
+  },
+  {
+    "id": "cw-s3-e16",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 16,
+    "title": "Altar of Mortis",
+    "format": "anime",
+    "importance": 4,
+    "description": "モーティス編中盤。アナキンとアソーカ、フォースの闇の関係を深める回。",
+    "characters": ["Ahsoka Tano", "Anakin Skywalker", "Obi-Wan Kenobi"],
+    "themes": ["Force", "Ahsoka"]
+  },
+  {
+    "id": "cw-s3-e17",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 17,
+    "title": "Ghosts of Mortis",
+    "format": "anime",
+    "importance": 4,
+    "description": "モーティス編の締め。アナキンの未来とアソーカとの師弟関係を補完する。",
+    "characters": ["Ahsoka Tano", "Anakin Skywalker", "Obi-Wan Kenobi"],
+    "themes": ["Force", "Ahsoka"]
   },
   {
     "id": "cw-s3-e18",
@@ -810,10 +870,46 @@
     "episode": 2,
     "title": "A War on Two Fronts",
     "format": "anime",
-    "importance": 2,
-    "description": "プロ・クーンの出演確認用カメオ回。",
+    "importance": 4,
+    "description": "アソーカが若者を導く立場になる若き指導者編の入口。",
     "characters": ["Plo Koon", "Anakin Skywalker", "Ahsoka Tano"],
-    "themes": ["Plo Koon Cameo", "Ahsoka", "Jedi Council"]
+    "themes": ["Plo Koon Cameo", "Ahsoka", "Jedi Council", "Leadership"]
+  },
+  {
+    "id": "cw-s5-e3",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 3,
+    "title": "Front Runners",
+    "format": "anime",
+    "importance": 4,
+    "description": "アソーカが反乱側の若者たちを支える指導者として成長する回。",
+    "characters": ["Ahsoka Tano", "Lux Bonteri", "Saw Gerrera"],
+    "themes": ["Ahsoka", "Leadership"]
+  },
+  {
+    "id": "cw-s5-e4",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 4,
+    "title": "The Soft War",
+    "format": "anime",
+    "importance": 4,
+    "description": "アソーカが前線で若者たちを導き、戦争と政治の現実に向き合う回。",
+    "characters": ["Ahsoka Tano", "Lux Bonteri", "Saw Gerrera"],
+    "themes": ["Ahsoka", "Leadership", "Jedi Disillusionment"]
+  },
+  {
+    "id": "cw-s5-e5",
+    "series": "The Clone Wars",
+    "season": 5,
+    "episode": 5,
+    "title": "Tipping Points",
+    "format": "anime",
+    "importance": 4,
+    "description": "若き指導者アソーカ編の締め。アソーカが戦争の中で導く側へ成長する。",
+    "characters": ["Ahsoka Tano", "Lux Bonteri", "Saw Gerrera"],
+    "themes": ["Ahsoka", "Leadership"]
   },
   {
     "id": "cw-s5-e17",
@@ -823,9 +919,9 @@
     "title": "Sabotage",
     "format": "anime",
     "importance": 4,
-    "description": "アソーカ裁判編の入口。プロ・クーンは評議会側として関わる。",
-    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
-    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+    "description": "ジェダイ聖堂爆破事件。アソーカが容疑者となる裁判編の入口。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker", "Barriss Offee"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council", "Trial Arc", "Jedi Disillusionment"]
   },
   {
     "id": "cw-s5-e18",
@@ -835,9 +931,9 @@
     "title": "The Jedi Who Knew Too Much",
     "format": "anime",
     "importance": 4,
-    "description": "アソーカが追い詰められる裁判編。評議会側の立場を押さえる回。",
-    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
-    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+    "description": "アソーカ逃亡。ジェダイ組織への不信感が強まる裁判編の重要回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker", "Barriss Offee"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council", "Trial Arc", "Jedi Disillusionment"]
   },
   {
     "id": "cw-s5-e19",
@@ -847,9 +943,9 @@
     "title": "To Catch a Jedi",
     "format": "anime",
     "importance": 4,
-    "description": "アソーカ裁判編の逃亡パート。ジェダイ評議会側の判断へつながる。",
-    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
-    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+    "description": "アソーカ孤立。組織と個人の対立が濃くなる裁判編の逃亡パート。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker", "Barriss Offee"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council", "Trial Arc", "Jedi Disillusionment"]
   },
   {
     "id": "cw-s5-e20",
@@ -859,9 +955,9 @@
     "title": "The Wrong Jedi",
     "format": "anime",
     "importance": 5,
-    "description": "アソーカ離脱に関わる評議会回。プロ・クーンの立場を理解する重要回。",
-    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker"],
-    "themes": ["Plo Koon Important", "Ahsoka", "Jedi Council"]
+    "description": "バリスの告白、ジェダイ批判、アソーカ離脱に至る最重要回。",
+    "characters": ["Plo Koon", "Ahsoka Tano", "Anakin Skywalker", "Barriss Offee"],
+    "themes": ["Plo Koon Important", "Ahsoka", "Barriss", "Jedi Council", "Trial Arc", "Jedi Criticism", "Jedi Disillusionment"]
   },
   {
     "id": "cw-s6-e1",
