@@ -94,7 +94,7 @@ Star Wars Viewing Navigator のデータは `data/` 配下の JSON ファイル�
 
 ## 3. 既存ルートに追加する
 
-`data/routes.json` の対象ルートを探し、`shortest` または `complete` にエピソードIDを追加します。
+`data/routes.json` の対象ルートを探し、`shortest`、`complete`、`cameo` にエピソードIDを追加します。
 
 例:
 
@@ -106,7 +106,8 @@ Star Wars Viewing Navigator のデータは `data/` 配下の JSON ファイル�
   "description": "映画での登場からクローン戦争、マンダロア、最終決着までモールの因縁を追う。",
   "difficulties": {
     "shortest": ["tp-movie", "cw-s4-e21", "cw-s5-e16", "rebels-s3-e20"],
-    "complete": ["tp-movie", "cw-s3-e12", "cw-s3-e13", "cw-s4-e21", "cw-s4-e22", "cw-s5-e14", "cw-s5-e15", "cw-s5-e16", "rebels-s2-e21", "rebels-s3-e20"]
+    "complete": ["tp-movie", "cw-s3-e12", "cw-s3-e13", "cw-s4-e21", "cw-s4-e22", "cw-s5-e14", "cw-s5-e15", "cw-s5-e16", "rebels-s2-e21", "rebels-s3-e20"],
+    "cameo": ["tp-movie", "cw-s3-e12", "cw-s3-e13", "cw-s4-e21", "cw-s4-e22", "cw-s5-e14", "cw-s5-e15", "cw-s5-e16", "rebels-s2-e21", "rebels-s3-e20"]
   }
 }
 ```
@@ -119,7 +120,10 @@ Star Wars Viewing Navigator のデータは `data/` 配下の JSON ファイル�
 `complete`
 : 関連回も含めて、しっかり背景を押さえるルートです。画面では「しっかりルート」と表示されます。
 
-現在、画面に表示される基本の難易度は「最短ルート」と「しっかりルート」です。出演確認用のルートでは `cameo` を使うと「カメオ込み」と表示されます。`recommended` は使いません。
+`cameo`
+: カメオや短い出演まで含めるルートです。画面では「カメオ込み」と表示されます。カメオ差分がないルートでは `complete` と同じ内容で構いません。
+
+現在、画面に表示される難易度は「最短ルート」「しっかりルート」「カメオ込み」の3つです。`recommended` は使いません。
 
 ## 4. 新しいルートを追加する
 
@@ -135,7 +139,8 @@ Star Wars Viewing Navigator のデータは `data/` 配下の JSON ファイル�
   "description": "ジェダイ崩壊と帝国誕生の流れを追う。",
   "difficulties": {
     "shortest": ["rots-movie"],
-    "complete": ["cw-s3-e15", "rots-movie"]
+    "complete": ["cw-s3-e15", "rots-movie"],
+    "cameo": ["cw-s3-e15", "rots-movie"]
   }
 }
 ```
@@ -186,8 +191,7 @@ JSON のカンマ抜けやID間違いがあると画面が読み込めなくな�
 - `episodes.json` が正しい JSON として読める
 - `routes.json` が正しい JSON として読める
 - `routes.json` に書いたエピソードIDが `episodes.json` に存在する
-- ルートの `difficulties` は基本的に `shortest` と `complete`
-- カメオまで追うルートでは `cameo` を追加してよい
+- ルートの `difficulties` は `shortest`、`complete`、`cameo`
 - ブラウザを再読み込みして表示される
 
 ## 7. よくあるミス
