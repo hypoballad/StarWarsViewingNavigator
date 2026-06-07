@@ -34,10 +34,7 @@ const categoryLabels = {
 const difficultyLabels = {
   shortest: "最短ルート",
   complete: "しっかりルート",
-  cameo: "カメオ込み",
-  expanded: "拡張ルート",
-  force: "フォース補完",
-  plo: "プロ・クーン補完"
+  cameo: "カメオ込み"
 };
 
 const dom = {

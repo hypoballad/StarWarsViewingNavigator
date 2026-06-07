@@ -56,9 +56,7 @@
     "description": "アソーカとバリスの友情、戦争で変質するジェダイ、評議会の欠陥、アソーカ離脱の必然性を追う。",
     "difficulties": {
       "shortest": ["cw-s2-e6", "cw-s2-e7", "cw-s2-e8", "cw-s5-e17", "cw-s5-e18", "cw-s5-e19", "cw-s5-e20"],
-      "expanded": ["cw-s2-e6", "cw-s2-e7", "cw-s2-e8", "cw-s5-e2", "cw-s5-e3", "cw-s5-e4", "cw-s5-e5", "cw-s5-e17", "cw-s5-e18", "cw-s5-e19", "cw-s5-e20"],
-      "force": ["cw-s2-e6", "cw-s2-e7", "cw-s2-e8", "cw-s3-e15", "cw-s3-e16", "cw-s3-e17", "cw-s5-e17", "cw-s5-e18", "cw-s5-e19", "cw-s5-e20"],
-      "plo": ["cw-s1-e2", "cw-s2-e6", "cw-s2-e7", "cw-s2-e8", "cw-s5-e17", "cw-s5-e18", "cw-s5-e19", "cw-s5-e20"]
+      "complete": ["cw-s1-e2", "cw-s2-e6", "cw-s2-e7", "cw-s2-e8", "cw-s3-e15", "cw-s3-e16", "cw-s3-e17", "cw-s5-e2", "cw-s5-e3", "cw-s5-e4", "cw-s5-e5", "cw-s5-e17", "cw-s5-e18", "cw-s5-e19", "cw-s5-e20"]
     }
   },
   {
