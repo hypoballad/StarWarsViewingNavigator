@@ -38,5 +38,10 @@
   { "id": "saw", "name": "Saw Gerrera", "label": "ソウ・ゲレラ" },
   { "id": "padme", "name": "Padme Amidala", "label": "パドメ・アミダラ" },
   { "id": "mother-talzin", "name": "Mother Talzin", "label": "マザー・タルジン" },
-  { "id": "sidious", "name": "Darth Sidious", "label": "ダース・シディアス" }
+  { "id": "sidious", "name": "Darth Sidious", "label": "ダース・シディアス" },
+  { "id": "darth-vader", "name": "Darth Vader", "label": "ダース・ベイダー" },
+  { "id": "devon-izara", "name": "Devon Izara", "label": "デヴォン・イザラ" },
+  { "id": "eeko-dio-daki", "name": "Eeko-Dio Daki", "label": "イーコ＝ディオ・ダキ" },
+  { "id": "eleventh-brother", "name": "Eleventh Brother", "label": "イレブンス・ブラザー" },
+  { "id": "dryden-vos", "name": "Dryden Vos", "label": "ドライデン・ヴォス" }
 ]

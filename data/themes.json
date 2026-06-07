@@ -27,5 +27,9 @@
   { "id": "jedi-criticism", "name": "Jedi Criticism", "label": "ジェダイ批判" },
   { "id": "jedi-disillusionment", "name": "Jedi Disillusionment", "label": "ジェダイ失望" },
   { "id": "leadership", "name": "Leadership", "label": "指導者" },
-  { "id": "dathomir", "name": "Dathomir", "label": "ダソミア" }
+  { "id": "dathomir", "name": "Dathomir", "label": "ダソミア" },
+  { "id": "reign-of-the-empire", "name": "Reign of the Empire", "label": "帝国支配時代" },
+  { "id": "inquisitorius", "name": "Inquisitorius", "label": "尋問官" },
+  { "id": "jedi-survivors", "name": "Jedi Survivors", "label": "生き残りのジェダイ" },
+  { "id": "shadow-lord", "name": "Shadow Lord", "label": "シャドウ・ロード" }
 ]
