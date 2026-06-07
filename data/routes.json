@@ -395,41 +395,5 @@
         "cw-s6-e11"
       ]
     }
-  },
-  {
-    "id": "grogu",
-    "category": "character",
-    "name": "グローグールート",
-    "description": "発見、保護、ジェダイとの接点、ディンとの家族関係を追う。",
-    "difficulties": {
-      "shortest": [
-        "mando-s1-e1",
-        "mando-s2-e5",
-        "mando-s2-e8",
-        "mando-s3-e8"
-      ],
-      "complete": [
-        "mando-s1-e1",
-        "mando-s1-e3",
-        "mando-s2-e5",
-        "mando-s2-e8",
-        "bobf-s1-e5",
-        "bobf-s1-e6",
-        "mando-s3-e2",
-        "mando-s3-e7",
-        "mando-s3-e8"
-      ],
-      "cameo": [
-        "mando-s1-e1",
-        "mando-s1-e3",
-        "mando-s2-e5",
-        "mando-s2-e8",
-        "bobf-s1-e5",
-        "bobf-s1-e6",
-        "mando-s3-e2",
-        "mando-s3-e7",
-        "mando-s3-e8"
-      ]
-    }
   }
 ]
