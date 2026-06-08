@@ -12,6 +12,18 @@
     "themes": ["Sith", "Jedi"]
   },
   {
+    "id": "aotc-movie",
+    "series": "Episode II",
+    "season": null,
+    "episode": null,
+    "title": "Attack of the Clones",
+    "format": "movie",
+    "importance": 5,
+    "description": "ドゥークーが分離主義勢力の指導者として登場し、ジオノーシスの戦いとクローン戦争開戦へつながる作品。",
+    "characters": ["Count Dooku", "Anakin Skywalker", "Obi-Wan Kenobi", "Yoda"],
+    "themes": ["Sith", "Jedi", "Clone Wars"]
+  },
+  {
     "id": "rots-movie",
     "series": "Episode III",
     "season": null,
@@ -24,6 +36,42 @@
     "themes": ["Order 66", "Jedi Council"]
   },
   {
+    "id": "totj-s1-e2",
+    "series": "Tales of the Jedi",
+    "season": 1,
+    "episode": 2,
+    "title": "Justice",
+    "format": "anime",
+    "importance": 5,
+    "description": "若きドゥークーが共和国とジェダイの腐敗に失望し始める回。後の離反の根が見える。",
+    "characters": ["Count Dooku", "Qui-Gon Jinn"],
+    "themes": ["Jedi", "Jedi Disillusionment"]
+  },
+  {
+    "id": "totj-s1-e3",
+    "series": "Tales of the Jedi",
+    "season": 1,
+    "episode": 3,
+    "title": "Choices",
+    "format": "anime",
+    "importance": 5,
+    "description": "ドゥークーがジェダイ評議会と共和国のあり方へさらに不信を深める回。",
+    "characters": ["Count Dooku", "Mace Windu"],
+    "themes": ["Jedi", "Jedi Council", "Jedi Disillusionment"]
+  },
+  {
+    "id": "totj-s1-e4",
+    "series": "Tales of the Jedi",
+    "season": 1,
+    "episode": 4,
+    "title": "The Sith Lord",
+    "format": "anime",
+    "importance": 5,
+    "description": "ドゥークーがシディアス側へ完全に堕ちる決定的な回。元ジェダイからシスの駒への転落を押さえる。",
+    "characters": ["Count Dooku", "Darth Sidious", "Yaddle", "Qui-Gon Jinn"],
+    "themes": ["Sith", "Jedi Disillusionment"]
+  },
+  {
     "id": "tcw-movie",
     "series": "The Clone Wars",
     "season": null,
@@ -34,6 +82,18 @@
     "description": "アソーカ、アナキン、ロッタの救出任務を通じてハットとの関係を押さえる作品。",
     "characters": ["Ahsoka Tano", "Anakin Skywalker", "Rotta the Hutt", "Jabba the Hutt"],
     "themes": ["Hutt Clan", "Clone Wars"]
+  },
+  {
+    "id": "cw-s1-e1",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 1,
+    "title": "Ambush",
+    "format": "anime",
+    "importance": 4,
+    "description": "ドゥークー配下の暗殺者としてのヴェントレスの初期像が見える回。ヨーダとの対比で彼女の立場が分かる。",
+    "characters": ["Asajj Ventress", "Yoda", "Count Dooku"],
+    "themes": ["Sith", "Clone Wars"]
   },
   {
     "id": "cw-s1-e2",
@@ -72,6 +132,30 @@
     "themes": ["Plo Koon Important", "Clone Wars"]
   },
   {
+    "id": "cw-s1-e9",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 9,
+    "title": "Cloak of Darkness",
+    "format": "anime",
+    "importance": 4,
+    "description": "ドゥークーの命を受けたヴェントレスがヌート・ガンレイ奪還に動く回。アソーカ、ルミナーラとの対決で暗殺者時代の強さが分かる。",
+    "characters": ["Asajj Ventress", "Ahsoka Tano", "Luminara Unduli", "Count Dooku"],
+    "themes": ["Sith", "Clone Wars"]
+  },
+  {
+    "id": "cw-s1-e10",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 10,
+    "title": "Lair of Grievous",
+    "format": "anime",
+    "importance": 4,
+    "description": "ドゥークーがグリーヴァスを試す回。分離主義側の駒を冷酷に管理する上位者としての姿が見える。",
+    "characters": ["Count Dooku", "General Grievous"],
+    "themes": ["Sith", "Clone Wars"]
+  },
+  {
     "id": "cw-s1-e11",
     "series": "The Clone Wars",
     "season": 1,
@@ -94,6 +178,18 @@
     "description": "プロ・クーンの出演確認用カメオ回。",
     "characters": ["Plo Koon", "Anakin Skywalker", "Obi-Wan Kenobi"],
     "themes": ["Plo Koon Cameo", "Jedi Council"]
+  },
+  {
+    "id": "cw-s1-e16",
+    "series": "The Clone Wars",
+    "season": 1,
+    "episode": 16,
+    "title": "The Hidden Enemy",
+    "format": "anime",
+    "importance": 4,
+    "description": "クリストフシスでヴェントレスが共和国側の裏切りを利用する回。ドゥークー配下時代の工作員としての役割を補強する。",
+    "characters": ["Asajj Ventress", "Anakin Skywalker", "Obi-Wan Kenobi", "Count Dooku"],
+    "themes": ["Sith", "Clone Wars"]
   },
   {
     "id": "cw-s2-e1",
@@ -142,6 +238,42 @@
     "description": "バリスとアソーカの関係を理解する最重要回。後の裏切りの衝撃を強める。",
     "characters": ["Ahsoka Tano", "Barriss Offee"],
     "themes": ["Ahsoka", "Barriss", "Force", "Jedi Disillusionment"]
+  },
+  {
+    "id": "cw-s3-e2",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 2,
+    "title": "ARC Troopers",
+    "format": "anime",
+    "importance": 4,
+    "description": "ヴェントレスがグリーヴァスとともにカミーノ襲撃へ関わる回。分離主義側の戦力としての立場を補強する。",
+    "characters": ["Asajj Ventress", "General Grievous", "Anakin Skywalker", "Obi-Wan Kenobi"],
+    "themes": ["Clone Wars", "Sith"]
+  },
+  {
+    "id": "cw-s3-e10",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 10,
+    "title": "Heroes on Both Sides",
+    "format": "anime",
+    "importance": 4,
+    "description": "分離主義議会と戦争継続の構造を描く回。ドゥークーが表向きの政治を操る文脈を補強する。",
+    "characters": ["Count Dooku", "Padme Amidala", "Ahsoka Tano"],
+    "themes": ["Clone Wars", "Jedi Disillusionment"]
+  },
+  {
+    "id": "cw-s3-e11",
+    "series": "The Clone Wars",
+    "season": 3,
+    "episode": 11,
+    "title": "Pursuit of Peace",
+    "format": "anime",
+    "importance": 4,
+    "description": "和平工作が妨げられ、戦争が政治的に維持されていく流れが見える回。分離主義と共和国双方の腐敗を押さえる。",
+    "characters": ["Count Dooku", "Padme Amidala"],
+    "themes": ["Clone Wars", "Jedi Disillusionment"]
   },
   {
     "id": "cw-s2-e3",
@@ -300,6 +432,42 @@
     "themes": ["Bounty Hunters", "Clone Wars", "Plo Koon Cameo"]
   },
   {
+    "id": "cw-s4-e17",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 17,
+    "title": "The Box",
+    "format": "anime",
+    "importance": 4,
+    "description": "パルパティーン誘拐計画へ向けて賞金稼ぎを選抜する回。ドゥークーの作戦準備を押さえる。",
+    "characters": ["Count Dooku", "Cad Bane", "Obi-Wan Kenobi"],
+    "themes": ["Bounty Hunters", "Sith", "Clone Wars"]
+  },
+  {
+    "id": "cw-s4-e19",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 19,
+    "title": "Massacre",
+    "format": "anime",
+    "importance": 5,
+    "description": "ドゥークーとグリーヴァスによるナイトシスター虐殺を描く回。ヴェントレスが過去を失い、次の生き方へ向かう大転換点。",
+    "characters": ["Asajj Ventress", "Mother Talzin", "Count Dooku", "General Grievous"],
+    "themes": ["Nightsisters", "Sith"]
+  },
+  {
+    "id": "cw-s4-e20",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 20,
+    "title": "Bounty",
+    "format": "anime",
+    "importance": 5,
+    "description": "行き場を失ったヴェントレスが賞金稼ぎの仕事に関わる回。暗殺者から自由な生き方へ移る変化が分かる。",
+    "characters": ["Asajj Ventress", "Boba Fett", "Dengar"],
+    "themes": ["Bounty Hunters", "Nightsisters"]
+  },
+  {
     "id": "cw-s4-e14",
     "series": "The Clone Wars",
     "season": 4,
@@ -442,6 +610,42 @@
     "description": "プロ・クーンの出演確認用カメオ回。",
     "characters": ["Plo Koon", "Ahsoka Tano"],
     "themes": ["Plo Koon Cameo", "Ahsoka"]
+  },
+  {
+    "id": "cw-s4-e4",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 4,
+    "title": "Shadow Warrior",
+    "format": "anime",
+    "importance": 4,
+    "description": "ドゥークーとグリーヴァスの作戦がナブーを巻き込む回。分離主義側の謀略として補足できる。",
+    "characters": ["Count Dooku", "General Grievous", "Anakin Skywalker", "Padme Amidala"],
+    "themes": ["Sith", "Clone Wars"]
+  },
+  {
+    "id": "cw-s4-e11",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 11,
+    "title": "Kidnapped",
+    "format": "anime",
+    "importance": 4,
+    "description": "ザイゲリア奴隷編の導入。ドゥークーと分離主義の支配構造、奴隷制への関与が見える。",
+    "characters": ["Count Dooku", "Anakin Skywalker", "Obi-Wan Kenobi", "Ahsoka Tano"],
+    "themes": ["Clone Wars", "Sith"]
+  },
+  {
+    "id": "cw-s4-e13",
+    "series": "The Clone Wars",
+    "season": 4,
+    "episode": 13,
+    "title": "Escape from Kadavo",
+    "format": "anime",
+    "importance": 4,
+    "description": "ザイゲリア奴隷編の決着。ドゥークーが支配と恐怖を利用する戦争の暗部を補強する。",
+    "characters": ["Count Dooku", "Anakin Skywalker", "Obi-Wan Kenobi", "Ahsoka Tano"],
+    "themes": ["Clone Wars", "Sith"]
   },
   {
     "id": "cw-s4-e21",
@@ -1128,6 +1332,54 @@
     "themes": ["Plo Koon Important", "Ahsoka", "Barriss", "Jedi Council", "Trial Arc", "Jedi Criticism", "Jedi Disillusionment"]
   },
   {
+    "id": "tbb-s3-e9",
+    "series": "The Bad Batch",
+    "season": 3,
+    "episode": 9,
+    "title": "The Harbinger",
+    "format": "anime",
+    "importance": 5,
+    "description": "帝国時代にヴェントレスが再登場し、オメガのフォース適性を見極める回。過去だけでは測れない現在の立場が見える。",
+    "characters": ["Asajj Ventress", "Omega", "Hunter", "Crosshair", "Wrecker"],
+    "themes": ["Reign of the Empire", "Force"]
+  },
+  {
+    "id": "totu-s1-e1",
+    "series": "Tales of the Underworld",
+    "season": 1,
+    "episode": 1,
+    "title": "A Way Forward",
+    "format": "anime",
+    "importance": 5,
+    "description": "ヴェントレスが新たな人生を得る導入回。Dark Disciple後の彼女をTales of the Underworldへつなぐ。",
+    "characters": ["Asajj Ventress", "Mother Talzin", "Quinlan Vos"],
+    "themes": ["Nightsisters", "Reign of the Empire", "Force"]
+  },
+  {
+    "id": "totu-s1-e2",
+    "series": "Tales of the Underworld",
+    "season": 1,
+    "episode": 2,
+    "title": "Friends",
+    "format": "anime",
+    "importance": 5,
+    "description": "ヴェントレスが思わぬ若い味方と逃亡し、帝国時代の危険な裏社会を進む回。",
+    "characters": ["Asajj Ventress", "Lyco Strata"],
+    "themes": ["Reign of the Empire", "Bounty Hunters", "Jedi Survivors"]
+  },
+  {
+    "id": "totu-s1-e3",
+    "series": "Tales of the Underworld",
+    "season": 1,
+    "episode": 3,
+    "title": "One Warrior to Another",
+    "format": "anime",
+    "importance": 5,
+    "description": "ヴェントレスが若い生存者を導く立場になったことを示す回。暗殺者から守る側への変化がまとまる。",
+    "characters": ["Asajj Ventress", "Lyco Strata"],
+    "themes": ["Reign of the Empire", "Jedi Survivors", "Bounty Hunters"]
+  },
+  {
     "id": "cw-s6-e1",
     "series": "The Clone Wars",
     "season": 6,
@@ -1152,6 +1404,18 @@
     "themes": ["Plo Koon Cameo", "Jedi Council"]
   },
   {
+    "id": "cw-s6-e3",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 3,
+    "title": "Fugitive",
+    "format": "anime",
+    "importance": 4,
+    "description": "ファイブスがクローン兵の制御チップ問題の真相に迫る回。ティラナス計画の輪郭が近づく。",
+    "characters": ["Fives", "Shaak Ti", "Count Dooku"],
+    "themes": ["Clone Wars", "Order 66"]
+  },
+  {
     "id": "cw-s6-e4",
     "series": "The Clone Wars",
     "season": 6,
@@ -1164,6 +1428,30 @@
     "themes": ["Plo Koon Cameo", "Jedi Council", "Order 66"]
   },
   {
+    "id": "cw-s6-e6",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 6,
+    "title": "The Rise of Clovis",
+    "format": "anime",
+    "importance": 4,
+    "description": "銀行グループをめぐる政治経済の回。ドゥークーが戦争経済を利用する側面を補強する。",
+    "characters": ["Count Dooku", "Padme Amidala", "Anakin Skywalker"],
+    "themes": ["Clone Wars", "Sith"]
+  },
+  {
+    "id": "cw-s6-e7",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 7,
+    "title": "Crisis at the Heart",
+    "format": "anime",
+    "importance": 4,
+    "description": "クローヴィス編の決着。ドゥークーとシディアスが金融と政治を通じて戦争を操る構造が見える。",
+    "characters": ["Count Dooku", "Darth Sidious", "Padme Amidala", "Anakin Skywalker"],
+    "themes": ["Clone Wars", "Sith"]
+  },
+  {
     "id": "cw-s6-e10",
     "series": "The Clone Wars",
     "season": 6,
@@ -1174,6 +1462,30 @@
     "description": "サイフォ＝ディアス調査。評議会メンバーとしてのプロ・クーンが見える重要回。",
     "characters": ["Plo Koon", "Yoda", "Mace Windu", "Obi-Wan Kenobi"],
     "themes": ["Plo Koon Important", "Jedi Council", "Order 66"]
+  },
+  {
+    "id": "cw-s6-e12",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 12,
+    "title": "Destiny",
+    "format": "anime",
+    "importance": 4,
+    "description": "ヨーダの試練を通じて、シスとの対決とクローン戦争の背後にある闇が浮かぶ回。",
+    "characters": ["Yoda", "Count Dooku", "Darth Sidious"],
+    "themes": ["Sith", "Force", "Jedi"]
+  },
+  {
+    "id": "cw-s6-e13",
+    "series": "The Clone Wars",
+    "season": 6,
+    "episode": 13,
+    "title": "Sacrifice",
+    "format": "anime",
+    "importance": 4,
+    "description": "ヨーダ、シディアス、ドゥークーの精神的対決を描く回。シスの構造とジェダイの限界を補強する。",
+    "characters": ["Yoda", "Count Dooku", "Darth Sidious"],
+    "themes": ["Sith", "Force", "Jedi"]
   },
   {
     "id": "cw-s6-e11",

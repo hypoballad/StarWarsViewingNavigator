@@ -43,5 +43,12 @@
   { "id": "devon-izara", "name": "Devon Izara", "label": "デヴォン・イザラ" },
   { "id": "eeko-dio-daki", "name": "Eeko-Dio Daki", "label": "イーコ＝ディオ・ダキ" },
   { "id": "eleventh-brother", "name": "Eleventh Brother", "label": "イレブンス・ブラザー" },
-  { "id": "dryden-vos", "name": "Dryden Vos", "label": "ドライデン・ヴォス" }
+  { "id": "dryden-vos", "name": "Dryden Vos", "label": "ドライデン・ヴォス" },
+  { "id": "omega", "name": "Omega", "label": "オメガ" },
+  { "id": "hunter", "name": "Hunter", "label": "ハンター" },
+  { "id": "crosshair", "name": "Crosshair", "label": "クロスヘア" },
+  { "id": "wrecker", "name": "Wrecker", "label": "レッカー" },
+  { "id": "quinlan-vos", "name": "Quinlan Vos", "label": "クインラン・ヴォス" },
+  { "id": "lyco-strata", "name": "Lyco Strata", "label": "ライコ・ストラータ" },
+  { "id": "dengar", "name": "Dengar", "label": "デンガー" }
 ]
